@@ -8,7 +8,7 @@
 - 💻 Currently studying for a degree in Computer Engineering
 - ⏳ Future Master's in Data Science
 - 🌱 Born and raised in Portugal
-- 📅 Currently 22 years old
+- 📅 Currently 23 years old
 - ⚡ Hard worker
 - 🎯 If I improve by 1% today, in a year's time I'll have improved by 365%!
 
