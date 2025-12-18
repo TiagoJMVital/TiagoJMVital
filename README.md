@@ -6,7 +6,7 @@
 ## 📌 About Me  
 
 - 💻 Currently studying for a degree in Computer Engineering
-- ⏳ Future Master's in Data Science
+- ⏳ Future Master's in Data Science or Artificial Inteligence
 - 🌱 Born and raised in Portugal
 - 📅 Currently 23 years old
 - ⚡ Hard worker
